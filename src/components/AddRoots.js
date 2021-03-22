@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { View, StyleSheet, TextInput, Button, Alert } from 'react-native';
+import { View, StyleSheet, TextInput, Button } from 'react-native';
 
 export const AddRoots = ({ onSubmit }) => {
   const InitialState = {

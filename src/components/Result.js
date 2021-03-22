@@ -1,5 +1,5 @@
-import React, { useState } from 'react';
-import { View, StyleSheet, Text, Button, Alert } from 'react-native';
+import React from 'react';
+import { View, StyleSheet, Text } from 'react-native';
 
 export const Result = ({ result }) => {
   return (
